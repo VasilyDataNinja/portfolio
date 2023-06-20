@@ -20,7 +20,7 @@
 
 <h2 align="center">Проекты:</h2>
 <p align="center">
-<h3 align="center> Калькулятор юнит-экономики онлайн-школы </h3>
+<h3 align="center"> Калькулятор юнит-экономики онлайн-школы </h3>
   
 <p align="center">Задачи</p>
 <ol>
