@@ -3,8 +3,11 @@
 
 <h3 align="center">Используемые инструменты:</h3>
 <p align="center">
-<a href="[https://sheets.google.com/](https://www.microsoft.com/en-us/microsoft-365/excel)" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/msexcel.svg" alt="Microsoft Excel" style="height: 5em; width: 5em;"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/msexcel.svg" alt="Microsoft Excel" style="height: 5em; width: 5em;"/></a>
 <a href="https://sheets.google.com/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/googlesheets.svg" alt="Google Sheets" style="height: 5em; width: 5em;"/></a>
+<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/postgresql.svg" alt="PostgreSQL" style="height: 5em; width: 5em;"/></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/mysql.svg" alt="MySQL" style="height: 5em; width: 5em;"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" style="height: 5em; width: 5em;"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
