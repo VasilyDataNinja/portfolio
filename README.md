@@ -87,14 +87,49 @@
 <li>Рассчитать винтажную доходимость по партнёрской программе</li>
 </ul>
 
+</p>
+<p align="center">Код SQL запроса <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/query1.sql">1</a>,<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/query2.sql">2 </a>
+
+</p>
 <p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/p3.xlsx">Excel файс с результатами запроса
 
-</a></p>
+</a>
+</p>
+
 
 <p align="center">
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/p3.1.jpg">
-  <img src="projects/project2/p3.1.jpg" alt="Когортный анализ" width="400" height="200"></a>
+  <img src="projects/project3/p3.1.jpg" alt="Когортный анализ" width="400" height="200"></a>
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/p3.2.jpg">
-<img src="projects/project2/p3.2.jpg" alt="Когортный анализ" width="350" height="200">
+<img src="projects/project3/p3.2.jpg" alt="Когортный анализ" width="350" height="200">
+</a></p>
+</p>
+
+<!-- Проект 4 -->
+<h3 align="center"> Моделирование изменения балансов студентов лнлайн школы </h3>
+  
+<p align="center">Задачи:</p>
+<ul>
+<li>Создать таблицу с балансами всех студентов за каждый календарный день </li>
+<li>Создать таблицу с изменением балансов под влиянием транзакций и списаний уроков</li>
+<li>Создать таблицу с балансами каждого студента за каждый день</li>
+<li>Построить визуализацию итоговых результатов</li>
+</ul>
+
+</p>
+<p align="center">Код SQL запроса <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/query1.sql">1</a>,<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/query2.sql">2 </a>
+
+</p>
+<p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/p4.xlsx">Excel файс с результатами запроса
+
+</a>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/p4.1.jpg">
+  <img src="projects/project4/p4.1.jpg" alt="Балансы студентов" width="400" height="200"></a>
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/p4.2.jpg">
+<img src="projects/project4/p4.2.jpg" alt="Балансы студентов" width="350" height="200">
 </a></p>
 </p>
