@@ -41,9 +41,9 @@
   <img src="projects/project1/p1.3.jpg" alt="Калькулятор1" width="300" height="200">
 </a>
 
-<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.2.jpg">
+<p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.2.jpg">
   <img src="projects/project1/p1.2.jpg" alt="Калькулятор1" width="350" height="200">
-</a>
+</a></p>
 
 
 <p align="center">Итоги:</p>
