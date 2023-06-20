@@ -44,12 +44,15 @@
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.2.jpg">
 <img src="projects/project1/p1.2.jpg" alt="Калькулятор1" width="350" height="200">
 </a></p>
+
+<!-- Выкидываем итоги
+ 
 <p align="center">Итоги:</p>
 <ul>
 <li>Новое расчётное количество студентов </li>
 <li>Обновлённый план найма преподавателей </li>
 </ul>
-</p>
+</p> -->
 
 <!-- Проект 2 -->
 <h3 align="center"> Калькулятор юнит-экономики онлайн-кинотеатра </h3>
@@ -58,8 +61,8 @@
 <ul>
 <li>Просчитать юнит-экономику продукта </li>
 <li>Предложить сценарий по настройке параметров для выхода на 25-ти процентную маржинальность</li>
-<li>Найти закономерности в данных, связи, проследить сезонность определенных действий </li>
-<li>Визуализировать какие пользователи, где и в каком объеме смотрят фильмы на платформе </li>  
+<li>Исследовать данные о пользователях и их поведении </li>
+<li>Собрать визуализации основных бизнес-показателей </li>  
 </ul>
 
 <p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p2.xlsx">Excel файс с калькулятором
@@ -68,13 +71,30 @@
 
 <p align="center">
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p2.1.jpg">
-  <img src="projects/project1/p2.1.jpg" alt="Калькулятор1" width="400" height="200"></a>
+  <img src="projects/project2/p2.1.jpg" alt="Калькулятор2" width="400" height="200"></a>
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p2.2.jpg">
-<img src="projects/project1/p2.2.jpg" alt="Калькулятор1" width="350" height="200">
+<img src="projects/project2/p2.2.jpg" alt="Калькулятор2" width="350" height="200">
 </a></p>
-<p align="center">Итоги:</p>
+</p>
+
+<!-- Проект 3 -->
+<h3 align="center"> Когортный анализ онлайн-кинотеатра с помощью SQL </h3>
+  
+<p align="center">Задачи:</p>
 <ul>
-<li>Новое расчётное количество студентов </li>
-<li>Обновлённый план найма преподавателей </li>
+<li>Построить распределение количества первых покупок клиента</li>
+<li>Построить визуализацию количества покупок в разных срезах</li>
+<li>Рассчитать винтажную доходимость по партнёрской программе</li>
 </ul>
+
+<p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/p3.xlsx">Excel файс с результатами запроса
+
+</a></p>
+
+<p align="center">
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p3.1.jpg">
+  <img src="projects/project2/p3.1.jpg" alt="Когортный анализ" width="400" height="200"></a>
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p3.2.jpg">
+<img src="projects/project2/p3.2.jpg" alt="Когортный анализ" width="350" height="200">
+</a></p>
 </p>
