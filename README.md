@@ -31,11 +31,10 @@
 <li>Составить план найма преподавателей </li>
 </ul>
 
-[![Alt текст](projects/project1/p1.1.jpg) {width=200 height=200} ](https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg)
 
 
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg">
-  <img src="projects/project1/p1.1.jpg" alt="Alt текст" width="200" height="200">
+  <img src="projects/project1/p1.1.jpg" alt="Калькулятор1" width="400" height="200">
 </a>
 
 <p align="center">Итоги:</p>
