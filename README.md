@@ -33,6 +33,11 @@
 
 [![Alt текст](projects/project1/p1.1.jpg) {width=200 height=200} ](https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg)
 
+
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg">
+  <img src="projects/project1/p1.1.jpg" alt="Alt текст" width="200" height="200">
+</a>
+
 <p align="center">Итоги:</p>
 <ul>
 <li>Новое расчётное количество студентов </li>
