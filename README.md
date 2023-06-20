@@ -20,6 +20,9 @@
 
 <h2 align="center">Проекты:</h2>
 <p align="center">
+  
+<!-- Проект 1 -->
+
 <h3 align="center"> Калькулятор юнит-экономики онлайн-школы </h3>
   
 <p align="center">Задачи:</p>
@@ -31,19 +34,44 @@
 <li>Составить план найма преподавателей </li>
 </ul>
 
+<p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.xlsx">Excel файс с калькулятором
+
+</a></p>
 
 <p align="center">
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg">
-  <img src="projects/project1/p1.1.jpg" alt="Калькулятор1" width="400" height="200">
-</a>
-
-
-
+  <img src="projects/project1/p1.1.jpg" alt="Калькулятор1" width="400" height="200"></a>
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.2.jpg">
-  <img src="projects/project1/p1.2.jpg" alt="Калькулятор1" width="350" height="200">
+<img src="projects/project1/p1.2.jpg" alt="Калькулятор1" width="350" height="200">
+</a></p>
+<p align="center">Итоги:</p>
+<ul>
+<li>Новое расчётное количество студентов </li>
+<li>Обновлённый план найма преподавателей </li>
+</ul>
+</p>
+
+<!-- Проект 2 -->
+<h3 align="center"> Калькулятор юнит-экономики онлайн-кинотеатра </h3>
+  
+<p align="center">Задачи:</p>
+<ul>
+<li>Просчитать юнит-экономику продукта </li>
+<li>Предложить сценарий по настройке параметров для выхода на 25-ти процентную маржинальность</li>
+<li>Найти закономерности в данных, связи, проследить сезонность определенных действий </li>
+<li>Визуализировать какие пользователи, где и в каком объеме смотрят фильмы на платформе </li>  
+</ul>
+
+<p align="center"><a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p2.xlsx">Excel файс с калькулятором
+
 </a></p>
 
-
+<p align="center">
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p2.1.jpg">
+  <img src="projects/project1/p2.1.jpg" alt="Калькулятор1" width="400" height="200"></a>
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p2.2.jpg">
+<img src="projects/project1/p2.2.jpg" alt="Калькулятор1" width="350" height="200">
+</a></p>
 <p align="center">Итоги:</p>
 <ul>
 <li>Новое расчётное количество студентов </li>
