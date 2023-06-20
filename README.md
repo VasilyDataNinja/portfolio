@@ -18,4 +18,4 @@
 </p>
 
 
-<h3 align="center">Проекты:</h3>
+<h2 align="center">Проекты:</h2>
