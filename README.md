@@ -1,6 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Василий Мачугин.</h1>
 <h2 align="center">Я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h2>
-
 <h3 align="center">Используемые инструменты:</h3>
 <p align="center">
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/msexcel.svg" alt="Microsoft Excel" style="height: 5em; width: 5em;"/></a>
