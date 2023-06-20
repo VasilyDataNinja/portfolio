@@ -31,7 +31,7 @@
 <li>Составить план найма преподавателей </li>
 </ul>
 
-[![Alt текст](projects/project1/p1.1.jpg)](https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg)
+[![Alt текст](projects/project1/p1.1.jpg){width=200 height=200}](https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg)
 
 <p align="center">Итоги:</p>
 <ul>
