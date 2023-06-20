@@ -16,6 +16,6 @@
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/pandas.svg" alt="Pandas" style="height: 5em; width: 5em;"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/scikitlearn.svg" alt="scikit-learn" style="height: 5em; width: 5em;"/></a>
 </p>
-
+<h2 align="center"></h2>
 
 <h2 align="center">Проекты:</h2>
