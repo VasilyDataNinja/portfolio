@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, меня зовут Мачугин Василий.</h1>
+<h1 align="center">Привет 👋, меня зовут Василий Мачугин.</h1>
 <h2 align="center">Я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h2>
 
 <h3 align="center">Используемые инструменты:</h3>
@@ -17,3 +17,6 @@
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/pandas.svg" alt="Pandas" style="height: 5em; width: 5em;"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/scikitlearn.svg" alt="scikit-learn" style="height: 5em; width: 5em;"/></a>
 </p>
+
+
+<h3 align="center">Проекты:</h3>
