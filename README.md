@@ -10,5 +10,10 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" style="height: 5em; width: 5em;"/></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<h3 align="center">Инструменты в процессе изучения:</h3>
+<p align="center">
+<a href="https://powerbi.microsoft.com/en-us/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/powerbi.svg" alt="PowerBi" style="height: 5em; width: 5em;"/></a>
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/python.svg" alt="Python" style="height: 5em; width: 5em;"/></a>
+<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/pandas.svg" alt="Pandas" style="height: 5em; width: 5em;"/></a>
+<a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/scikitlearn.svg" alt="scikit-learn" style="height: 5em; width: 5em;"/></a>
+</p>
