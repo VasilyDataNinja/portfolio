@@ -1,5 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Василий Мачугин.</h1>
 <h2 align="center">Я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h2>
+
 <h3 align="center">Используемые инструменты:</h3>
 <p align="center">
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank"><img align="center" src="https://github.com/ma4ugin/portfolio/blob/main/icons/msexcel.svg" alt="Microsoft Excel" style="height: 5em; width: 5em;"/></a>
@@ -131,5 +132,7 @@
   <img src="projects/project4/p4.1.jpg" alt="Балансы студентов" width="400" height="200"></a>
 <a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/p4.2.jpg">
 <img src="projects/project4/p4.2.jpg" alt="Балансы студентов" width="350" height="200">
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project4/p4.3.jpg">
+<img src="projects/project4/p4.3.jpg" alt="Балансы студентов" width="750" height="200">
 </a></p>
 </p>
