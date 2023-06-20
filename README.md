@@ -30,6 +30,9 @@
 <li>Спрогнозировать количество уроков в связи с перерасчётом </li> 
 <li>Составить план найма преподавателей </li>
 </ul>
+
+[![Alt текст](portfolio/projects/project1/p1.1.jpg)](https://github.com/ma4ugin/portfolio/blob/main/projects/project1/p1.1.jpg)
+
 <p align="center">Итоги:</p>
 <ul>
 <li>Новое расчётное количество студентов </li>
