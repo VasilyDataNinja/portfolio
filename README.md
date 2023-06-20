@@ -92,9 +92,9 @@
 </a></p>
 
 <p align="center">
-<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p3.1.jpg">
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/p3.1.jpg">
   <img src="projects/project2/p3.1.jpg" alt="Когортный анализ" width="400" height="200"></a>
-<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project2/p3.2.jpg">
+<a href="https://github.com/ma4ugin/portfolio/blob/main/projects/project3/p3.2.jpg">
 <img src="projects/project2/p3.2.jpg" alt="Когортный анализ" width="350" height="200">
 </a></p>
 </p>
