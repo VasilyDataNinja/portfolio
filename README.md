@@ -172,7 +172,7 @@
 <li>Создание визуализации "карта"</li>
 </ul>
 </p>
-<p align="center"><a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project7/p7.xlsx">Файл PowerBI Desktop
+<p align="center"><a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project7/p7.pbix">Файл PowerBI Desktop
 </a>
 </p>
 <p align="center">
