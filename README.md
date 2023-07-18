@@ -186,7 +186,7 @@
 <!-- Контакты -->
 <h2 align="center">Контактная информация</h2>
 <p align="center">
-<a href="mailto:doretta.d78f9eed@nicoric.com" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/mail.svg" alt="email me" style="height: 3em; width: 3em;"/></a>
+<a href="mailto:machugin.vasiliy@yandex.ru" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/mail.svg" alt="email me" style="height: 3em; width: 3em;"/></a>
 <a href="https://t.me/Shaitan6" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/telegram.svg" alt="TG me" style="height: 3em; width: 3em;"/></a>
 <a href="https://discordapp.com/users/208552526453276673/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/discord.svg" alt="DS me" style="height: 3em; width: 3em;"/></a>
 </p>
