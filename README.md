@@ -169,7 +169,7 @@
 <ul>
 <li>Практика использования инструмента Power BI для визуализации</li>
 <li>Практика работы с "незнакомыми датасетами" взятыми из открытого источника</li>
-<li>Создание визуализации "карта"</li>
+<li>Составить красивый и понятный Dashboard</li>
 </ul>
 </p>
 <p align="center"><a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project7/p7.pbix">Файл PowerBI Desktop
