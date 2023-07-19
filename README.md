@@ -13,6 +13,7 @@
 <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/postgresql.svg" alt="PostgreSQL" style="height: 5em; width: 5em;"/></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/mysql.svg" alt="MySQL" style="height: 5em; width: 5em;"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" style="height: 5em; width: 5em;"/></a>
+ <a href="https://www.metabase.com/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/metabase.svg" alt="Metabase" style="height: 5em; width: 5em;"/></a>
  <a href="https://powerbi.microsoft.com/en-us/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/powerbi.svg" alt="PowerBi" style="height: 5em; width: 5em;"/></a>
 </p>
 
@@ -186,9 +187,9 @@
 <!-- Контакты -->
 <h2 align="center">Контактная информация</h2>
 <p align="center">
-<a href="mailto:machugin.vasiliy@yandex.ru" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/mail.svg" alt="email me" style="height: 3em; width: 3em;"/></a>
-<a href="https://t.me/Shaitan6" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/telegram.svg" alt="TG me" style="height: 3em; width: 3em;"/></a>
-<a href="https://discordapp.com/users/208552526453276673/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/discord.svg" alt="DS me" style="height: 3em; width: 3em;"/></a>
+<a href="mailto:machugin.vasiliy@yandex.ru" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/mail.svg" alt="email me" style="height: 2em; width: 2em;"/></a>
+<a href="https://t.me/Shaitan6" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/telegram.svg" alt="TG me" style="height: 2em; width: 2em;"/></a>
+<a href="https://discordapp.com/users/208552526453276673/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/discord.svg" alt="DS me" style="height: 2em; width: 2em;"/></a>
 </p>
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VasiliyDataNinja&label=Profile%20views&color=FF8C00&style=plastic" alt="VasiliyDataNinja" /> </p>
