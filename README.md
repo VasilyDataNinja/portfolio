@@ -15,6 +15,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/microsoftsqlserver.svg" alt="Microsoft SQL Server" style="height: 5em; width: 5em;"/></a>
 <a href="https://www.metabase.com/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/metabase.svg" alt="Metabase" style="height: 5em; width: 5em;"/></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/powerbi.svg" alt="PowerBi" style="height: 5em; width: 5em;"/></a>
+<br>
 <a href="https://jupyter.org/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/jupyter.svg" alt="Jupyter" style="height: 5em; width: 5em;"/></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/python.svg" alt="Python" style="height: 5em; width: 5em;"/></a>
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/VasilyDataNinja/portfolio/blob/main/icons/pandas.svg" alt="Pandas" style="height: 5em; width: 5em;"/></a>
