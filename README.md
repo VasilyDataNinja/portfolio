@@ -122,6 +122,23 @@
 </p>
 <p align="center"><a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project4/p4.xlsx">Excel файс с результатами запроса
 </a>
+
+
+<details>
+  <summary>Нажмите, чтобы открыть/закрыть SQL-код из файла</summary>
+  <pre><code>
+
+  ```sql
+  -- Здесь будет код из вашего файла в репозитории
+  -- Пример ссылки на файл:
+  -- [query1.sql](https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project4/query1.sql)
+```
+</code></pre>
+
+</details>
+
+
+
 </p>
 <p align="center">
 <a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project4/p4.1.jpg">
