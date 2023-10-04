@@ -632,6 +632,12 @@ from skytaxi.airport_visit
 </a>
 </details>
 
+<p align="center">
+<a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project8/p8.1.png">
+<img src="projects/project8/p8.1.png" alt="График" width="400" height="200"></a>
+<a href="https://github.com/VasilyDataNinja/portfolio/blob/main/projects/project8/p8.2.png">
+<img src="projects/project8/p8.2.png" alt="График" width="350" height="200">
+</a></p>
 <br>
 
 
